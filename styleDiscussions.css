@@ -1,0 +1,57 @@
+.wrapper{
+    width:1080px;
+    background: black;
+    margin: 0 auto 0 auto;
+}
+
+.heading{
+    width: 1080px;
+    height: 100px;
+    background: lightskyblue;
+    text-align: center;
+}
+
+.navigation{
+    width: 1080px;
+    height: 30px;
+    background: darkgrey;
+    
+}
+
+.content{
+    min-height: 500px;
+    background: whitesmoke;
+    width: 800px;
+    float:left;
+}
+
+.sidebar{
+    width: 280px;
+    float:right;
+    background: dodgerblue;
+    min-height: 500px;
+}
+
+.footer{
+    width: 1080px;
+    clear: both;
+    background: lightskyblue;
+    height: 20px;
+    color: black;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+a.navbuttons{
+    text-align: center;
+    height:30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 30px;
+    margin: 0px;
+    display: inline-block;
+    font-size: 15px;
+    color: black;
+    text-decoration: dotted;
+
+}

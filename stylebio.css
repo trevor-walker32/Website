@@ -1,0 +1,52 @@
+.wrapper{
+    width:1080px;
+    background: black;
+    margin: 0 auto 0 auto;
+}
+
+.heading{
+    width: 1080px;
+    height: 100px;
+    background: lightskyblue;
+    text-align: center;
+}
+
+.content{
+    float:left;
+    min-height: 600px;
+    background: whitesmoke;
+    width: 1080px;
+
+    background-image: ("TrevorPhoto.jpg");
+}
+
+.footer{
+    clear:both;
+    width: 1080px;
+    background: lightskyblue;
+    height: 20px;
+    padding-bottom: 10px;
+    color: black;
+    text-align: center;
+}
+
+.navigation{
+    width: 1080px;
+    height: 30px;
+    background: darkgrey;
+    
+}
+
+a.navbuttons{
+    text-align: center;
+    height:30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 30px;
+    margin: 0px;
+    display: inline-block;
+    font-size: 15px;
+    color: black;
+    text-decoration: dotted;
+
+}

@@ -61,7 +61,7 @@ if ($check2>0){
 }
 
 //list of banned words here
-$badWords = array("fuck","shit","bitch","pussy","ass","asshole","cunt","motherfucker","retard","fucking");
+$badWords = array(/*insert bad words here*/);
 
 $matches = array();//make an array of matches
 $matchFound = preg_match_all(

@@ -3,6 +3,8 @@ Blog about baseball
 
 Created these files in the Summer of 2018, using various sources as guidance. Proof of concept. Still more work to do...
 
+When looking at code, start at index.php
+
 # Usage
 
 1. Set up web server to interpret PHP code, I am using apache osx manager. 
